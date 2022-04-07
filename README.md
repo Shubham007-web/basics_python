@@ -1,11 +1,2 @@
-# testone
-This is first time, I am using git/github
-h = float(input("Enter the number of the hour: "))
-r = float(input("Enter the rate: "))
-def computepay(h,r):
-  if h<=:
-    pay =  h*r
-  else:
-    pay = 40*r+(h-40)*r*1.5 
-  return pay
-print(computepay(h,r)
+# Python - perfect number
+In number theory, a perfect number is a positive integer that is equal to the sum of its positive divisors, excluding the number itself. For instance, 6 has divisors 1, 2 and 3 (excluding itself), and 1 + 2 + 3 = 6, so 6 is a perfect number.
